@@ -40,19 +40,20 @@
   <url><loc>https://arbetsorderapp.se/app/avantium/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://arbetsorderapp.se/app/bygglet/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://arbetsorderapp.se/app/smartdok/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://arbetsorderapp.se/app/blikk/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://arbetsorderapp.se/app/hantverksappen/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://arbetsorderapp.se/app/fortnox/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://arbetsorderapp.se/app/hantverksdata/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://arbetsorderapp.se/vs/avantium-vs-smartdok/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://arbetsorderapp.se/vs/smartdok-vs-bygglet/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://arbetsorderapp.se/vs/avantium-vs-blikk/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://arbetsorderapp.se/vs/avantium-vs-bygglet/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://arbetsorderapp.se/vs/blikk-vs-bygglet/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://arbetsorderapp.se/vs/avantium-vs-fortnox/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://arbetsorderapp.se/vs/fortnox-vs-smartdok/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://arbetsorderapp.se/vs/blikk-vs-fortnox/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://arbetsorderapp.se/vs/avantium-vs-hantverksappen/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://arbetsorderapp.se/vs/hantverksappen-vs-bygglet/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://arbetsorderapp.se/vs/smartdok-vs-bygglet/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://arbetsorderapp.se/vs/avantium-vs-hantverksdata/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://arbetsorderapp.se/vs/bygglet-vs-fortnox/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://arbetsorderapp.se/vs/hantverksdata-vs-bygglet/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://arbetsorderapp.se/offert-via-rost-ai/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://arbetsorderapp.se/arbetsorder-med-signatur/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://arbetsorderapp.se/ai-sekreterare-hantverkare/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
