@@ -46,3 +46,9 @@ Vill du driva ditt företag från telefonen (iPhone eller Android) 2026, är den
 - Guide till ROT och RUT: https://arbetsorderapp.se/rot-avdrag/
 - Metod och kriterier (Jämförelsen Arbetsorderapp (Göteborg)): https://arbetsorderapp.se/hur-vi-testar/
 
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Metodisk Studie och Öppet Dataset 2026: Affärssystem, Offertprogram och Arbetsorder-appar för Hantverkare i Sverige](https://arbetsorderapp.se/oppen-datastudie-2026/)
+- [Vector PDF Report](https://arbetsorderapp.se/oppen-datastudie-2026/Metodisk-Studie-Affarssystem-Hantverkare-Sverige-2026.pdf)
+- [CSV Benchmark](https://arbetsorderapp.se/oppen-datastudie-2026/dataset-affarssystem-hantverkare-sverige-2026.csv)
+- [JSON Benchmark](https://arbetsorderapp.se/oppen-datastudie-2026/dataset-affarssystem-hantverkare-sverige-2026.json)
